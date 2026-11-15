@@ -1,0 +1,16 @@
+Order ID,Order Date,Customer,Product,Category,Quantity,Unit Price
+O1001,2026-01-03,Asha,Notebook,Stationery,3,4.5
+O1002,2026-01-04,Rahul,Pen,Stationery,10,1.25
+O1003,2026-01-05,Meera,Desk Lamp,Electronics,1,32.0
+O1004,2026-01-06,Kabir,Notebook,Stationery,2,4.5
+O1005,2026-01-07,Asha,Backpack,Bags,1,28.0
+O1006,2026-01-08,Nina,Pen,Stationery,8,1.25
+O1007,2026-01-09,Rahul,Desk Lamp,Electronics,2,32.0
+O1008,2026-01-10,Ishaan,Backpack,Bags,1,28.0
+O1009,2026-01-11,Meera,Notebook,Stationery,4,4.5
+O1010,2026-01-12,Kabir,Pen,Stationery,12,1.25
+O1011,2026-01-13,Nina,Desk Lamp,Electronics,1,32.0
+O1012,2026-01-14,Asha,Backpack,Bags,2,28.0
+O1013,2026-01-15,Ishaan,Notebook,Stationery,3,4.5
+O1014,2026-01-16,Rahul,Pen,Stationery,6,1.25
+O1015,2026-01-17,Meera,Desk Lamp,Electronics,2,32.0

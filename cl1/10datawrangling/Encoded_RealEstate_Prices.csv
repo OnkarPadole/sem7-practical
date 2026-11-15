@@ -1,0 +1,7 @@
+sale_price,bedrooms,bathrooms,area_sq_ft,property_type_Apartment,property_type_Condo,property_type_House,neighborhood_North,neighborhood_South,neighborhood_West,sale_date_2024-01-15,sale_date_2024-03-10,sale_date_2024-05-21,sale_date_2024-07-02,sale_date_2024-09-18,sale_date_2024-11-05
+250000,3,2,1500,0,0,1,1,0,0,1,0,0,0,0,0
+315000,4,2,2100,0,0,1,0,0,1,0,1,0,0,0,0
+190000,2,1,1100,1,0,0,0,1,0,0,0,1,0,0,0
+420000,5,3,2800,0,0,1,0,0,1,0,0,0,1,0,0
+275000,3,2,1600,1,0,0,0,1,0,0,0,0,0,1,0
+360000,4,2,2300,0,1,0,1,0,0,0,0,0,0,0,1

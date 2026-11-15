@@ -1,0 +1,7 @@
+sale_price,bedrooms,bathrooms,area_sq_ft,sale_date,property_type_Apartment,property_type_Condo,property_type_House,neighborhood_North,neighborhood_South,neighborhood_West
+250000,3,2,1500,2024-01-15,0,0,1,1,0,0
+315000,4,2,2100,2024-03-10,0,0,1,0,0,1
+190000,2,1,1100,2024-05-21,1,0,0,0,1,0
+420000,5,3,2800,2024-07-02,0,0,1,0,0,1
+275000,3,2,1600,2024-09-18,1,0,0,0,1,0
+360000,4,2,2300,2024-11-05,0,1,0,1,0,0

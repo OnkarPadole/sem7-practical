@@ -1,0 +1,5 @@
+neighborhood,property_type,count,mean,median,min,max
+North,Condo,1,360000.0,360000.0,360000,360000
+North,House,1,250000.0,250000.0,250000,250000
+South,Apartment,2,232500.0,232500.0,190000,275000
+West,House,2,367500.0,367500.0,315000,420000

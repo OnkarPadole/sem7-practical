@@ -1,0 +1,13 @@
+Transaction_Date,Region,Product_Category,Quantity,Sales_Amount
+2025-01-05,North,Electronics,2,1200
+2025-01-08,South,Clothing,5,250
+2025-01-12,East,Groceries,8,160
+2025-01-15,West,Electronics,1,900
+2025-02-02,North,Clothing,4,320
+2025-02-06,South,Groceries,10,200
+2025-02-11,East,Electronics,3,1800
+2025-02-18,West,Clothing,6,480
+2025-03-03,North,Groceries,12,240
+2025-03-09,South,Electronics,2,1400
+2025-03-14,East,Clothing,5,400
+2025-03-20,West,Groceries,9,180

@@ -1,0 +1,7 @@
+sale_price,bedrooms,bathrooms,area_sq_ft,property_type,neighborhood,sale_date
+250000,3,2,1500,House,North,2024-01-15
+315000,4,2,2100,House,West,2024-03-10
+190000,2,2,1100,Apartment,South,2024-05-21
+420000,5,2,2800,House,West,2024-07-02
+275000,3,2,1600,Apartment,South,2024-09-18
+360000,4,2,2300,Condo,North,2024-11-05
